@@ -1,5 +1,5 @@
 # Programming Challenges
-<img src="src/programming-challenges-v4.0.png">;
+<img src="src/programming-challenges-v4.0.png">
 
 ## Tasks
 
